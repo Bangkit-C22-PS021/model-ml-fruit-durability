@@ -11,27 +11,27 @@ In this folder, there are some Machine Learning Models to predict the level of f
 For this model, besides the self-taken pictures, you can get the information of our dataset [here](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing). We label our data manually based on its color or texture and estimate its durability based on daily home observations or time lapse videos
 
 Here is the ML Model for Apple fruits 
-* [Model Apple with InceptionV3](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) **(Best Model)**#Link not fixed
+* [Model Apple with InceptionV3](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Apple/Model-Apple-Inception-rmsprop.ipynb) **(Best Model)**
 
 # 2. Orange Model
 For this model, besides the self-taken pictures, you can get the information of our dataset [here](https://drive.google.com/file/d/1KB0PmD3Ej1V9Jt-M_-F37QsShcPHpqiS/view?usp=sharing) 
 
 Here are some ML Model for Orange fruits 
 
-* [Model Orange with InceptionV3 RMSPROP Optimizer](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) **(Best Model)**#Link not fixed
-* [Model Orange with VGG16](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) #Link not fixed
-* [Model Orange with CNN](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) #Link not fixed
-* [Model Orange with InceptionV3 Adam Optimizer](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) #Link not fixed
+* [Model Orange with InceptionV3 RMSPROP Optimizer](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Orange/Model-Orange-InceptionV3-rmsprop.ipynb) **(Best Model)**
+* [Model Orange with VGG16](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Orange/Model-Orange-VGG16.ipynb)
+* [Model Orange with CNN](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Orange/Model-Orange-CNN.ipynb)
+* [Model Orange with InceptionV3 Adam Optimizer](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Orange/Model-Orange-InceptionV3-Adam.ipynb)
 
 # 3. Banana Model
 For this model, besides the self-taken pictures, you can get the information of our dataset [here](https://drive.google.com/file/d/1PEhuekpGf34Yp2GGNvxi3Flqtk2kBNFz/view?usp=sharing) 
 
 Here are some ML Model for Orange fruits 
 
-* [Model Orange with CNN Adam Optimizer](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) **(Best Model)**#Link not fixed
-* [Model Orange with InceptionV3](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) #Link not fixed
-* [Model Orange with CNN RMSPROP Optimizer](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) #Link not fixed
-* [Model Orange with MobileNet](https://drive.google.com/file/d/1EGFqvaKpCLA--3i42cupKdD0ygItK0MA/view?usp=sharing) #Link not fixed
+* [Model Orange with CNN Adam Optimizer](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Banana/Model-Banana-CNN-Adam.ipynb) **(Best Model)**
+* [Model Orange with InceptionV3](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Banana/Model-Banana-InceptionV3.ipynb)
+* [Model Orange with CNN RMSPROP Optimizer](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Banana/Model-Banana-CNN-rmsprop.ipynb)
+* [Model Orange with MobileNet](https://github.com/Bangkit-C22-PS021/model-ml-fruit-durability/blob/main/Banana/Model-Banana-MobileNet.ipynb)
 
 
 *Note : All of the models above is just for comparison. To deploy Fruitology application, we use the model that has the label **Best Model**
