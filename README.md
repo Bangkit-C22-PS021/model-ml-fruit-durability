@@ -1,5 +1,5 @@
 # Fruit Durability Machine Learning Models
-In this folder, there are some Machine Learning Models to predict the level of fruit resistance (durability). For now, the fruit is only limited to 3 types: **Apple, Orange and Banana**. The model is separated by type of fruit in order to avoid prediction errors. In the process of making this ML Model, the model is created using several types of algorithms including:
+In this folder, there are some Machine Learning Models to predict the level of fruit resistance (durability). We use google colab and Tensorflow 2.8.2 version to build these models. For now, the fruit is only limited to 3 types: **Apple, Orange and Banana**. The model is separated by type of fruit in order to avoid prediction errors. In the process of making this ML Model, the model is created using several types of algorithms including:
 
 
 * Convolutional Neural Network (CNN)
